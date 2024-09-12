@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _07.TheatrePromotion
 {
-                                                    //NEED TO FIX!!!!!!!!!!
+                                                   
     class Program
     {
         static void Main(string[] args)
