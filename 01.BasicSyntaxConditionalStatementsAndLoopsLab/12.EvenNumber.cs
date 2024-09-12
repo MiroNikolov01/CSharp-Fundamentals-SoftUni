@@ -8,7 +8,6 @@ namespace _12.EvenNumber
 {
     class Program
     {
-        //WORK IN PROGRESS
         static void Main(string[] args)
         {
             while (true)
