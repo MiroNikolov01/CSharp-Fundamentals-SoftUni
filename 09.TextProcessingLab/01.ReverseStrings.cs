@@ -1,4 +1,4 @@
-﻿namespace _01.ReverseStrings
+namespace _01.ReverseStrings
 {
     internal class Program
     {
@@ -9,12 +9,7 @@
             {
                 string reversedString = "";
                 string currentString = cmd;
-                char[] charArray = cmd.ToCharArray();
-                Array.Reverse(charArray);
-                for (int i = 0; i < charArray.Length; i++)
-                {
-                    reversedString += charArray[i];
-                }
+                reversedString = new string(cmd.Reverse().ToArray());
                 Console.WriteLine($"{currentString} = {reversedString}");
             }
         }
