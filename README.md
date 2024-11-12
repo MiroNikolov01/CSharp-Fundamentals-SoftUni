@@ -7,8 +7,6 @@ Welcome to my GitHub repository for **Fundamentals with C#** assignments from So
 - [About the Repository](#about-the-repository)
 - [Course Topics](#course-topics)
 - [Usage](#usage)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
 
 ## About the Repository
 
