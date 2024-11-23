@@ -8,8 +8,6 @@ namespace _02.AdAstra
         {
             string pattern = @"([#|])(?<Name>[A-Za-z ]+)\1(?<date>\d{2}\/\d{2}\/\d{2})\1(?<calories>(?:[0-9]|[1-9][0-9]{1,3}|10000))\1";
 
-            bool isHashTag = false;
-            bool isOrSymbol = false;
             string input = Console.ReadLine();
             double foodToLast = 0;
             List<Food> output = new List<Food>();
