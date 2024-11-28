@@ -1,20 +1,27 @@
-# Fundamentals with C# - Homework Assignments
+# 🚀 **Fundamentals with C# - Homework Assignments**
 
-Welcome to my GitHub repository for **Fundamentals with C#** assignments from Software University. This repository includes solutions to each problem presented throughout the course, organized by topic and session, and implemented in C#.
+Welcome to my **GitHub repository** for **Fundamentals with C#** assignments from **Software University**! 🎓 This repository contains solutions to every homework problem presented throughout the course, with each problem carefully implemented in C# to demonstrate the core concepts introduced in the curriculum.
 
-## Table of Contents
+---
+
+## 📑 Table of Contents
 
 - [About the Repository](#about-the-repository)
 - [Course Topics](#course-topics)
+- [Download Links](#download-links)
 - [Usage](#usage)
 
-## About the Repository
+---
 
-This repository serves as a collection of homework solutions for each topic covered in the **Fundamentals with C#** course. Each assignment or problem is implemented as a separate project and demonstrates the key concepts introduced in the course.
+## 🧑‍💻 About the Repository
 
-## Course Topics
+This repository serves as a central hub for **homework solutions** to the **Fundamentals with C#** course. Each problem is implemented as a separate project, providing clear demonstrations of the essential **C# concepts** and best practices learned during the course. You'll find code that covers everything from basic syntax to more advanced algorithms.
 
-The assignments cover a variety of foundational topics in C#, including:
+---
+
+## 📚 Course Topics
+
+The assignments span across a variety of foundational topics, including:
 
 - **Basic Syntax, Conditional Statements, and Loops**
 - **Data Types and Variables**
@@ -25,9 +32,32 @@ The assignments cover a variety of foundational topics in C#, including:
 - **Regular Expressions**
 - **Problem Solving and Algorithms**
 
-Each topic folder contains solutions for every problem in that section, organized by session or week.
+Each folder for the corresponding topic contains solutions for all problems related to that section, sorted by the course sessions or weeks.
 
-## Usage
+---
+
+## 📥 Download Links
+
+For each homework problem, there is a downloadable link to access the problem statements:
+
+- **[Problem 1: Basic Syntax](https://github.com/user-attachments/files/17949649/Basic.Syntax.Conditional.Statements.and.Loops.-.Lab.docx)**
+  - **Download Problem Statement**
+  
+- **[Problem 2: Arrays](https://github.com/user-attachments/files/17949508/Arrays.-.Lab.docx)**
+  - **Download Problem Statement**
+  
+- **[Problem 3: Data Types](https://github.com/user-attachments/files/17949146/Data.Types.and.Variables.-.Exercise.docx)**
+  - **Download Problem Statement**
+
+- And so on for each problem...
+
+Feel free to download the problem statements by clicking the links and start solving them directly!
+
+---
+
+## 🛠️ Usage
+
+To get started, follow these simple steps:
 
 1. **Clone the Repository**:
    ```bash
