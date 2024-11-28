@@ -33,3 +33,7 @@ Click the button below to download the problem description:
 3. Happy coding and problem-solving! 😊
 
 ---
+
+## 👤 About the Author
+
+💻 **Author**: [SoftUni](https://softuni.bg/) 
