@@ -40,13 +40,13 @@ Each folder for the corresponding topic contains solutions for all problems rela
 
 For each homework problem, there is a downloadable link to access the problem statements:
 
-- **[Problem 1: Basic Syntax](https://github.com/user-attachments/files/17949649/Basic.Syntax.Conditional.Statements.and.Loops.-.Lab.docx)**
+- **[Problem 1: Basic Syntax](https://github.com/MiroNikolov01/CSharp-Fundamentals-SoftUni/tree/main/01.BasicSyntaxConditionalStatementsAndLoopsLab)**
   - **Download Problem Statement**
   
-- **[Problem 2: Arrays](https://github.com/user-attachments/files/17949508/Arrays.-.Lab.docx)**
+- **[Problem 2: Arrays](https://github.com/MiroNikolov01/CSharp-Fundamentals-SoftUni/tree/main/04.ArraysLab)**
   - **Download Problem Statement**
   
-- **[Problem 3: Data Types](https://github.com/user-attachments/files/17949146/Data.Types.and.Variables.-.Exercise.docx)**
+- **[Problem 3: Data Types](https://github.com/MiroNikolov01/CSharp-Fundamentals-SoftUni/tree/main/03.DataTypesAndVariablesLab)**
   - **Download Problem Statement**
 
 - And so on for each problem...
