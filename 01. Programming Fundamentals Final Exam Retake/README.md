@@ -33,3 +33,7 @@ Click the button below to download the problem description:
 3. Explore and enjoy solving these interesting problems!
 
 ---
+
+## 👤 About the Author
+
+💻 **Author**: [SoftUni](https://softuni.bg/) 
