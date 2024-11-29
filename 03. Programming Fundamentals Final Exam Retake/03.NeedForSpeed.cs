@@ -93,11 +93,11 @@
             {
                 fuel = tankMax - carsMap[carName].Fuel;
                 carsMap[carName].Fuel = tankMax;
-                Console.WriteLine($"{carName} refueled with {fuel} liters");
+               PrintRefuel(carName, fuel);
                 return;
             }
             carsMap[carName].Fuel += fuel;
-            Console.WriteLine($"{carName} refueled with {fuel} liters");
+           PrintRefuel(carName, fuel);
         }
         public void Revert(string carName, int kilometers, Dictionary<string, Car> carsMap)
         {
@@ -111,5 +111,9 @@
             }
             Console.WriteLine($"{carName} mileage decreased by {kilometers} kilometers");
         }
+         public void PrintRefuel(string name, int fuel)
+ {
+     Console.WriteLine($"{name} refueled with {fuel} liters");
+ }
     }
 }
