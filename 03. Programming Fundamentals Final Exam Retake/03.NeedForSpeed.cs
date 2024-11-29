@@ -114,6 +114,6 @@
         public void PrintRefuel(string name, int fuel)
         {
             Console.WriteLine($"{name} refueled with {fuel} liters");
-       }
-    }
-}
+        }
+     }
+ }
