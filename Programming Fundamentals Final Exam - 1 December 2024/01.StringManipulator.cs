@@ -56,7 +56,6 @@ namespace _01.StringManipulator
             {
                 if (inputString[i] == ch)
                 {
-                    int charIndex = i;
                     Console.WriteLine(i);
                     break;
                 }
